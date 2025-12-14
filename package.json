@@ -33,5 +33,9 @@
   "bugs": {
     "url": "https://github.com/react-native-community/react-native-text-input-mask/issues"
   },
-  "homepage": "https://github.com/react-native-community/react-native-text-input-mask"
+  "homepage": "https://github.com/react-native-community/react-native-text-input-mask",
+  "resolutions": {
+    "@react-native-community/cli": "17.0.1",
+    "@babel/traverse": "7.23.2"
+  }
 }
